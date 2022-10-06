@@ -1,7 +1,7 @@
 # openSUSE Indonesia :indonesia: Offline Meetup #221001
 ---
 ## Poster
-![](https://github.com/opensuse-id/meetups/221001/poster-feed.png)
+![](https://github.com/opensuse-id/meetups/blob/main/221001/poster-feed.png)
 
 ## Speakers
 - [@dhenandi](https://github.com/dhenandi)
