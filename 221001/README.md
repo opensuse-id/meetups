@@ -18,7 +18,7 @@
 - sesi 1 dhenandi
 - sesi 2 estu
 - tanya dan jawab
-- sesi curhat, ngobrol santai, dan sharring session sambil cemilin pizza :pizza:
+- sesi curhat, ngobrol santai, dan sharing session sambil cemilin pizza :pizza:
 
 
 ## Sponsor 
@@ -28,7 +28,7 @@
 
 ## Documentation
 - tayangan ulang via YouTube [Release Party openSUSE Leap 15.4 | @indigoSpace Jakarta, Indonesia](https://www.youtube.com/watch?v=YpKMF97fI3g)
-- foto-foto [Google Drive Link](https://)
+- foto-foto [Google Photos Link](https://photos.app.goo.gl/owoFFPHkSwyPQAPN7)
 
 ## Organizers :shipit:
 - yang bawain acara, nyetel streaming, merangkap operator [@aryulianto](https://github.com/aryulianto)
