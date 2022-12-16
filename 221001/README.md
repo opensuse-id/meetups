@@ -35,4 +35,4 @@
 - bagian urus-urus merch dan lokasi acara [@rifkiaz](https://github.com/rifkiaz)
 - ordal, tithi, dan ngadmin oS-ID
 
->Meetup selanjutnya silakan cek dan juga ![Twitter Follow](https://img.shields.io/twitter/follow/openSUSEID?style=social)
+>Meetup selanjutnya silakan cek dan juga ![Twitter Follow](https://img.shields.io/twitter/follow/openSUSE_ID?style=social)
