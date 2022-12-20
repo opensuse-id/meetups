@@ -20,11 +20,19 @@
 - tanya dan jawab
 - sesi curhat, ngobrol santai, dan sharing session sambil cemilin pizza :pizza:
 
-
 ## Sponsor 
 - [openSUSE](www.opensuse.org)
 - [openSUSE-ID](www.opensuse.id)
 - [indigoSpace Jakarta](https://www.instagram.com/indigospace.jakarta)
+
+## Expenses
+| No | Item | Qty | Harga |
+| -------- | -------- | -------- | -------- |
+| 1 | Makan siang Hokben | 50 Pax | Rp.1.745.040   | 
+| 2 | Pizza Hut Delivery |  6 Box | Rp.291.500   | 
+| 3 | Uang kebersihan| 1 lot |  Rp. 500.000 | 
+| 4 | Sewa ruangan | 1 lot |  Rp. 0 | 
+| |Total ||  Rp. 2.536.540 | 
 
 ## Documentation
 - tayangan ulang via YouTube [Release Party openSUSE Leap 15.4 | @indigoSpace Jakarta, Indonesia](https://www.youtube.com/watch?v=YpKMF97fI3g)
